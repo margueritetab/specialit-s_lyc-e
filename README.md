@@ -1,1 +1,1 @@
-# specialit-s_lyc-e
+# specialites_lycee
